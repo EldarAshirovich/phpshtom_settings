@@ -1,0 +1,14 @@
+<application>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="MarkdownTableInlayProviderSettingsKey" />
+  </component>
+  <component name="PhpCodeFoldingSettings">
+    <option name="COLLAPSE_PHP_TAGS" value="true" />
+    <option name="COLLAPSE_FUNCTION_BODY" value="true" />
+    <option name="COLLAPSE_METHOD_BODY" value="true" />
+    <option name="COLLAPSE_CLASSES" value="true" />
+  </component>
+</application>
