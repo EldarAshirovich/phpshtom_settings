@@ -11,4 +11,8 @@
     <option name="COLLAPSE_METHOD_BODY" value="true" />
     <option name="COLLAPSE_CLASSES" value="true" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern case-sensitive="true" pattern="\btodo\b.*" />
+    <pattern case-sensitive="true" pattern="\bfixme\b.*" />
+  </component>
 </application>
