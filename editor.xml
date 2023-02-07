@@ -1,6 +1,7 @@
 <application>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="" />
+    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc, *.php," />
   </component>
   <component name="InlayHintsSettings">
     <option name="lastViewedProviderKeyId" value="MarkdownTableInlayProviderSettingsKey" />
