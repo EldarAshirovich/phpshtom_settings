@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="213123" type="AUTO_DETECTED" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
     </extensionMap>
