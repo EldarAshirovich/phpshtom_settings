@@ -6,6 +6,7 @@
       <mapping pattern=".htaccess" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="lib" type="PLAIN_TEXT" />
       <mapping ext="ser" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
