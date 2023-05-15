@@ -4,6 +4,7 @@
       <mapping pattern="213123" type="AUTO_DETECTED" />
       <mapping pattern="yii_test" type="AUTO_DETECTED" />
       <mapping pattern=".htaccess" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="lib" type="PLAIN_TEXT" />
