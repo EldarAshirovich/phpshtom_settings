@@ -3,11 +3,5 @@
     <account name="str-card" id="4e23a10d-0f35-4c63-b6ab-b22b13d90e48">
       <server host="github.com" />
     </account>
-    <account name="SabriEldar" id="bd0723d7-6d3d-4105-be31-6f79cdc9b948">
-      <server host="github.com" />
-    </account>
-    <account name="EldarAshirovich" id="cf83804d-0722-4fbc-880f-8810af7d7388">
-      <server host="github.com" />
-    </account>
   </component>
 </application>
