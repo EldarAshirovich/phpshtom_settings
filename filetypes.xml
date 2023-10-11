@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="213123" type="AUTO_DETECTED" />
       <mapping pattern="yii_test" type="AUTO_DETECTED" />
+      <mapping pattern="ImagesConttroller.php" type="AUTO_DETECTED" />
       <mapping pattern=".htaccess" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
